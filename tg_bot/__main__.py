@@ -38,7 +38,7 @@ You can find my list of available commands with /help .
  
 See [Basic Configuration Checklist](https://t.me/HaritaNews/10) on how to secure your group.
 
-See the Source code of this bot [Source Code](https://github.com/Avishekbhattacharjee/Harita-Robot)
+See the Source code of this bot [Source Code](https://github.com/utkarsh212646/Minori-RoBot)
 """
 
 HELP_STRINGS = """
