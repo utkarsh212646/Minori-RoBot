@@ -1,13 +1,13 @@
-![Harita](https://telegra.ph/file/bfc6d21b24e9af9c79a62.png)
-# Harita Robot 
+![Minori Chan](https://telegra.ph/file/c734ce1d47d8611939f1c.jpg)
+# Minori Chan 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/43872978473d46a0a44de96c96e62e27)](https://app.codacy.com/manual/Avishekbhattacharjee/Anie-Robot?utm_source=github.com&utm_medium=referral&utm_content=Avishekbhattacharjee/Anie-Robot&utm_campaign=Badge_Grade_Dashboard) 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Bot API Version](https://img.shields.io/badge/Bot%20API-v4.8-f36caf.svg?style=flat-square)](https://core.telegram.org/bots/api) [![Community Chat](https://img.shields.io/badge/Community-Chat-blueChat?style=flat-square&logo=telegram)](https://t.me/Haritasupport)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/HaritaNews)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Bot API Version](https://img.shields.io/badge/Bot%20API-v4.8-f36caf.svg?style=flat-square)](https://core.telegram.org/bots/api) [![Community Chat](https://img.shields.io/badge/Community-Chat-blueChat?style=flat-square&logo=telegram)](https://t.me/Alpha_bot_support)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/alpha_bot_updates)
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database. This is the Most Powerful Telegram Bot. You Can Clone The Bot At Your Own Risks.
 
-Can be found on telegram as [Harita Robot](https://t.me/HaritaRobot).
+Can be found on telegram as [Minori Chan](https://t.me/MinoriRobot).
 
 The Support group can be reached out to at [Support](https://t.me/HaritaSupport), where you can ask for help about [Harita Robot](https://t.me/HaritaRobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
