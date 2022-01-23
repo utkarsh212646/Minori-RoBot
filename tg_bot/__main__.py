@@ -31,14 +31,14 @@ PM_START_TEXT = """
 🙋Hello {}, My Name is {} !
 
 I'm a powerful group management bot 🤖
-
-👉Add me to your groups as admin to manage your groups with my commands🤩
+I'm  based on anime character 
+👉Add me to your groups as admin to manage your groups with love and care 😘
 
 You can find my list of available commands with /help .
  
 See [Basic Configuration Checklist](https://t.me/HaritaNews/10) on how to secure your group.
 
-See the Source code of this bot [Source Code](https://github.com/utkarsh212646/Minori-RoBot)
+See the Devloper of this bot [Devloper](https://t.me/alphabotsdev)
 """
 
 HELP_STRINGS = """
@@ -150,7 +150,7 @@ def start(bot: Bot, update: Update, args: List[str]):
     
             keyboard = [[InlineKeyboardButton(text=tld(chat.id, "Add Me To Your Group ♥️"), url="t.me/minori_robot?startgroup=true")]]
 
-            keyboard += [[InlineKeyboardButton(text=tld(chat.id, "Updates ❓"), url="https://t.me/HaritaNews"), InlineKeyboardButton(text=tld(chat.id, "🌍 Support Chat 🌍"), url="https://t.me/alpha_bot_support")]]
+            keyboard += [[InlineKeyboardButton(text=tld(chat.id, "Updates ❓"), url="https://t.me/alpha_bot_updates"), InlineKeyboardButton(text=tld(chat.id, "🌍 Support Chat 🌍"), url="https://t.me/alpha_bot_support")]]
             
             keyboard += [[InlineKeyboardButton(text="My Super Commands ⚙️", callback_data="help_back")]]
             
